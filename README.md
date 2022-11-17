@@ -5,7 +5,13 @@
 ![](https://github-readme-stats.vercel.app/api?username=TuanMCIk&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=TuanMCIk&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TuanMCIk&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/TuanMCIk)  
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TuanMCIk)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=TuanMCIk&show_icons=true)  
+
+![Profile views](https://gpvc.arturio.dev/TuanMCIk)  
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
