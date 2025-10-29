@@ -9,8 +9,9 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
+<p align="center">
+  <img src="https://api.memegen.link/images/programmer" width="512px"/>
+</p>
 ---
 [![](https://visitcount.itsvg.in/api?id=TuanMCIk&icon=0&color=0)](https://visitcount.itsvg.in)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/TuanMClk)  
